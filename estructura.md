@@ -14,4 +14,3 @@ pendiente de agregar mas cosas
 
 
 -------
-ejs, nos permitira crear un archivo html con variables y comunicarlo con el frond
